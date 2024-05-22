@@ -13,6 +13,16 @@ This Python script generates synthetic X-ray Photoelectron Spectroscopy (XPS) da
 - Supports customization of the number of spectra and their parameters
 - Inverts the x-axis of the plot for visualization purposes
 
+
+
+<div align="center">
+    <img src="Prediction.jpg" alt="Comparison of Actual and Predicted XPS Spectra for HAp_Si_2nd_sputtering_fit" width="600" height="400">
+    <p>Comparison of Actual and Predicted XPS Spectra for HAp_Si_2nd_sputtering_fit: The plot shows the actual spectrum in blue and the predicted spectrum in green dashed lines. The shaded area represents the standard deviation. A table lists the components and their portions.</p>
+</div>
+
+
+
+
 ## Usage
 
 1. Clone the repository:
